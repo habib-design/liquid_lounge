@@ -50,7 +50,7 @@ const Hero = () => {
 	.to(".arrow", { y: 100 }, 0)
 	
 	const startValue = isMobile ? "top 50%" : "center 60%";
-	const endValue = "bottom top";
+	const endValue = isMobile ? "bottom bottom" : "bottom top";
 	
 	let tl = gsap.timeline({
 	 scrollTrigger: {
