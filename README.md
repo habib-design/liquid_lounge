@@ -1,6 +1,6 @@
 # Liquid Lounge 🍸
 
-A modern, animated cocktail landing page built with React and GSAP. Liquid Lounge focuses on an immersive, responsive UI with smooth animations and micro-interactions to create a memorable product landing experience.
+A modern, animated cocktail landing page built with React and GSAP. This project focuses on an immersive, responsive UI with smooth animations and micro-interactions to create a memorable product landing experience.
 
 ---
 
